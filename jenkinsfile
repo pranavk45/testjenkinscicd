@@ -1,6 +1,6 @@
 node {
   
-   stage('Preparation') {
+   stage('Preparing system') {
  
    }
    stage('test') {
