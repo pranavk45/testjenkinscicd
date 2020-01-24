@@ -6,9 +6,9 @@ node {
    stage('test') {
  
      }
-   }
+   
    stage('docker build/push') {
 
      }
-   }
+   
 }
